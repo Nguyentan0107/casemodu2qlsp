@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af05df3b-9e36-46fb-8aca-550de4cee1f1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LftE1lqqyjUK19JKwAoM8bYFfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nguyen/Desktop/6/Casemodule2-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="controller" />
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af05df3b-9e36-46fb-8aca-550de4cee1f1" name="Changes" comment="" />
+      <created>1676273852826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676273852826</updated>
+      <workItem from="1676273854454" duration="3892000" />
+      <workItem from="1676300356201" duration="804000" />
+      <workItem from="1676304664662" duration="10512000" />
+      <workItem from="1676341321004" duration="15431000" />
+      <workItem from="1676396772722" duration="7021000" />
+      <workItem from="1676425119515" duration="2647000" />
+      <workItem from="1676434546368" duration="515000" />
+      <workItem from="1676435463812" duration="3184000" />
+      <workItem from="1676442581570" duration="4709000" />
+      <workItem from="1676450021995" duration="6025000" />
+      <workItem from="1676510351004" duration="12561000" />
+      <workItem from="1676529981656" duration="11080000" />
+      <workItem from="1676549626896" duration="1684000" />
+      <workItem from="1676562377691" duration="11608000" />
+      <workItem from="1676615583590" duration="2122000" />
+      <workItem from="1676618516074" duration="4294000" />
+      <workItem from="1676623299151" duration="2787000" />
+      <workItem from="1676648672379" duration="733000" />
+      <workItem from="1676826473677" duration="8262000" />
+      <workItem from="1676855322792" duration="208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
